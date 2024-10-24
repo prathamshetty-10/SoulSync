@@ -1,0 +1,6 @@
+npm run dev=>frontend
+npm run start=>backend
+
+Pratham01 123456@w
+Sam01 123456@w
+dr_John   123456@w 
