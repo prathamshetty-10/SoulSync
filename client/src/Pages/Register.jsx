@@ -105,9 +105,9 @@ export default function Register(){
               }, []); 
     return ( <div className="h-[100vh] w-[100vw] bg-[#131324] flex items-center justify-center">
     <form onSubmit={handleSubmit} className="bg-[#00000076] flex flex-col rounded-3xl px-[4rem] pt-[2.5rem] pb-[2rem] shadow-[0_0_5px_gray]">
-        <div className="flex">
-            <img src={logo} alt="hi" className="h-[50px] w-[50px] mr-[1rem]"></img>
-            <h1 className="font-bold text-white text-3xl mb-[10px]">HealthHuddle</h1>
+        <div className="flex justify-center items-center">
+            
+            <h1 className="font-bold text-white text-3xl mb-[10px]">SoulSync</h1>
         </div>
                         <label htmlFor="image_uploads" className="cursor-pointer">
                         {previewImage?(
